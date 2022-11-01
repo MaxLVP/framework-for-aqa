@@ -1,2 +1,1 @@
-# framework-for-aqa
-Framewrok to tests web-sites
+# framework for testing websites, the examples made for the demoqa.com
